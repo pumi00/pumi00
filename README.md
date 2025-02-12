@@ -1,4 +1,4 @@
-### ¡Hola, soy Pumi! 👋  
+### ¡Hola, soy Ivan! 👋  
 
 💻 **Full Stack Developer en búsqueda de oportunidades**  
 
