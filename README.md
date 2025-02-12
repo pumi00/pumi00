@@ -1,16 +1,15 @@
-## Hi there 👋
+### ¡Hola, soy Pumi! 👋  
 
-<!--
-**pumi00/pumi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer en búsqueda de oportunidades**  
 
-Here are some ideas to get you started:
+Soy un desarrollador full stack con formación en **4Geeks Academy** y un máster en **programación de videojuegos en The Core School**. Me apasiona la tecnología, el desarrollo web y la creación de experiencias digitales.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí  
+- 🔭 Actualmente, en búsqueda de mi primer puesto como **Full Stack Developer**.  
+- 🌱 Aprendiendo de forma autodidacta y profundizando en tecnologías full stack.  
+- 👯 Me interesa colaborar en proyectos desafiantes donde pueda seguir creciendo y aportando valor.  
+- 💬 Pregúntame sobre **JavaScript, React, Node.js, bases de datos y desarrollo de videojuegos**.  
+- 📫 Contacto: **pumi0751@gmail.com**  
+- ⚡ Fun fact: Me encanta combinar mi pasión por los videojuegos con la programación para crear experiencias interactivas.  
+
+🔗 **¡Echa un vistazo a mis proyectos y conectemos!** 🚀 
