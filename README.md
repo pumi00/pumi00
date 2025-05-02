@@ -1,6 +1,6 @@
 ### ¡Hola, soy Ivan! 👋  
 
-💻 **Full Stack Developer en búsqueda de oportunidades**  
+💻 **Full Stack and Game Developer en búsqueda de oportunidades**  
 
 Soy un desarrollador full stack con formación en **4Geeks Academy** y un máster en **programación de videojuegos en The Core School**. Me apasiona la tecnología, el desarrollo web y la creación de experiencias digitales.  
 
