@@ -1,10 +1,10 @@
 <!-- 1) PRIMER VISTAZO: quién soy + qué busco (lo único que lee el 80% de la gente) -->
-<h1 align="center">Hi, I'm Iván Pérez 👋</h1>
-<h3 align="center">Full Stack Web Developer · Next.js · TypeScript · Supabase</h3>
+<p align="center">
+  <img src="./assets/header.svg" alt="Iván Pérez — Full Stack Web Developer" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Final--year_DAW_student-Spain-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼_Open_to-work-2EA44F?style=for-the-badge" />
 </p>
 
 <p align="center">
